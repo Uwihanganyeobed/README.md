@@ -1,3 +1,47 @@
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 11 mins    ███████████░░░░░░░░░░░░░░   44.46 %
+JavaScript   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
+JSON         29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+Bash         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Other        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+```
+
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/Uwihanganyeobed" target="_blank"><img src="https://cdn.Uwihanganyeobed.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Uwihanganyeobed&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hey There! 👋
 **I'm Thijs** - I'm a fullstack developer, designer, moderator, and high school student based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 <h2><u>This is what i know well</u></h2>
