@@ -23,12 +23,12 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🚧 **my todoist stats:**
+🚧 **my Completed Tasks Ready:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+🏆  E-Coomerce Website(https://front-end-ashy-three.vercel.app/)  
+🌸  Modern-Ui-React (https://modern-ui-react-project.vercel.app/)           
+✅  My Portifolio (https://my-portifolio-rho-eight.vercel.app/)           
+⏳  Youtube Website(https://youtube-website-html.vercel.app/)
 <!-- TODO-IST:END -->
 
   
