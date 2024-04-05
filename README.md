@@ -46,5 +46,6 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/Uwihanganyeobed" target="_blank"><img src="https://cdn.Uwihanganyeobed.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/uwihanganyk
+" target="_blank"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2024/04/7JK0cL0WbtBsoySn.jpg@300w_0e.webp" alt="Buy Me A Coffee" width="150" ></a>
 
