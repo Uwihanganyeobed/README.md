@@ -4,7 +4,7 @@
 <h2><u>This is what i know well</u></h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,cs,eclipse,figma" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,c++,eclipse,figma" /></br>
     <img src="https://skillicons.dev/icons?i=git,java,python,npm,react,vite,mysql,tailwind" /></br>
     <img src="https://skillicons.dev/icons?i=replit,postman,nodejs,mongodb,github,bootstrap,firebase,typescript,linux" />  
   </a></p>
@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 11 mins    ███████████░░░░░░░░░░░░░░   44.46 %
+Rest API   1 hr 11 mins    ███████████░░░░░░░░░░░░░░   44.46 %
 JavaScript   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
 JSON         29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
 Bash         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
