@@ -1,6 +1,6 @@
 
 # Hey There! 👋
-**I'm UWIHANGANYE Obed** - I'm a fullstack developer, designer, moderator, and student at University Of Rwanada based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm UWIHANGANYE Obed** - I'm a fullstack developer, designer, moderator, and student at University Of Rwanda based in the bay area. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 <h2><u>This is what i know well</u></h2>
 <p align="center">
   <a href="https://skillicons.dev">
