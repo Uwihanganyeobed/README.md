@@ -39,6 +39,7 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 
 <details>
   <summary>Github Stats ⚡</summary>
+
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Uwihanganyeobed&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uwihanganyeobed&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
