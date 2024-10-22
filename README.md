@@ -48,3 +48,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/uwihanganyk" target="_blank"><img src="https://cdn.buymeacoffee.com/uploads/profile_pictures/2024/04/7JK0cL0WbtBsoySn.jpg@300w_0e.webp" alt="Buy Me A Coffee" width="150" ></a>
 
+* repo -> repository
+* `clone` -> bring a repo down from the internet (remote repository like Github) to your local machine
+* `add` -> track your files and changes with Git
+* `commit` -> save your changes into Git
+* `push` -> push your changes to your remote repo on Github (or another website)
+* `pull` -> pull changes down from the remote repo to your local machine
+
+* `status` -> check to see which files are being tracked or need to be commited
+* `init` -> use this command inside of your project to turn it into a Git repository and start using Git with that codebase
