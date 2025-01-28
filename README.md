@@ -4,7 +4,7 @@
 <h2><u>This is what i know well</u></h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,java,python,dart" /></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,php,cs,java,python,solidity,dart" /></br>
     <img src="https://skillicons.dev/icons?i=git,eclipse,figma,npm,bootstrap,react,flutter,vite,nextjs,mysql,tailwind" /></br>
     <img src="https://skillicons.dev/icons?i=replit,postman,nodejs,supabase,mongodb,gitlab,github,firebase,netlify,vercel,postgresql,linux" />  
   </a></p>
